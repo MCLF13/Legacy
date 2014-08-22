@@ -1,0 +1,4 @@
+C:\Users\b2660233\Desktop\Legacy\Valuation\bin\Release\Valuation.dll
+C:\Users\b2660233\Desktop\Legacy\Valuation\bin\Release\Valuation.pdb
+C:\Users\b2660233\Desktop\Legacy\Valuation\obj\Release\Valuation.dll
+C:\Users\b2660233\Desktop\Legacy\Valuation\obj\Release\Valuation.pdb

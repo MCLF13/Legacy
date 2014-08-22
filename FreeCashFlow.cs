@@ -23,7 +23,7 @@ namespace Valuation
         }
 
         //funcao que calcula o Free Cash Flow to Equity 
-        public void FreeCashFlowToEquity(double netincome, double Capex, double depreciation, deltaWC, double PrincipalPayment, double NewDebtIssued)
+        public void FreeCashFlowToEquity(double netincome, double Capex, double depreciation, double deltaWC, double PrincipalPayment, double NewDebtIssued)
         {
             FCFE = netincome - Capex + Depreciation - deltaWC - PrincipalPayment + NewDebtIssued;
         }
